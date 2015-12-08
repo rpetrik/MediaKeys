@@ -11,11 +11,11 @@ I use it by having created following shortcuts (.lnk) in my system path
 
 <table>
 <tr><th>location of the item</th><th>name</th></tr>
-<tr><td>"C:\Python34\python.exe c:\projects\personal\source\MediaKeys.py p"</td><td>p</td></tr>
-<tr><td>"C:\Python34\python.exe c:\projects\personal\source\MediaKeys.py n"</td><td>n</td></tr>
-<tr><td>"C:\Python34\python.exe c:\projects\personal\source\MediaKeys.py pp"</td><td>pp</td></tr>
-<tr><td>"C:\Python34\python.exe c:\projects\personal\source\MediaKeys.py u"</td><td>u</td></tr>
-<tr><td>"C:\Python34\python.exe c:\projects\personal\source\MediaKeys.py d"</td><td>d</td></tr>
+<tr><td>"C:\Python34\python.exe c:\projects\personal\MediaKeys\source\MediaKeys.py p"</td><td>p</td></tr>
+<tr><td>"C:\Python34\python.exe c:\projects\personal\MediaKeys\source\MediaKeys.py n"</td><td>n</td></tr>
+<tr><td>"C:\Python34\python.exe c:\projects\personal\MediaKeys\source\MediaKeys.py pp"</td><td>pp</td></tr>
+<tr><td>"C:\Python34\python.exe c:\projects\personal\MediaKeys\source\MediaKeys.py u"</td><td>u</td></tr>
+<tr><td>"C:\Python34\python.exe c:\projects\personal\MediaKeys\source\MediaKeys.py d"</td><td>d</td></tr>
 </table>
 
 
